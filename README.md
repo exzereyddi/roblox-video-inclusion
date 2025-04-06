@@ -11,6 +11,6 @@ roblox video inclusion , with roblox asset id
 
 заходим в плейс, врубаем луа и проверяем по кнопке 1 
 
-#меню удаляется после смерти , убрать или вернуть в строке 4 screenGui.ResetOnSpawn = true ( исчезает ) false = навсегда
+меню удаляется после смерти , убрать или вернуть в строке 4 screenGui.ResetOnSpawn = true ( исчезает ) false = навсегда
 
 короткое видео как ето работает -> https://www.youtube.com/watch?v=lV6fdFcmfcM
